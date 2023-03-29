@@ -1,0 +1,21 @@
+@media (min-width: 601px) {
+    .parentBox{
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        font-size: 17px;
+    }
+
+    .parentBox p{
+        font-size: 10px;
+        font-weight: 600;
+    }
+
+    .inputBtn{
+        font-weight: 600;
+        font-size: 17px;
+        border: 1px solid ;
+        border-radius: 10px;
+        
+    }
+    
+}
